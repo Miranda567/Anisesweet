@@ -117,7 +117,7 @@ html {
 /* Home Section Styling */
 .home {
   display: flex;
-  background: url(./assets/images/pic.jpg) no-repeat center;
+  background: url(pic.jpg) no-repeat center;
   height: 100vh;
   background-size: cover;
   background-attachment: fixed;
